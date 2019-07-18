@@ -27,3 +27,5 @@ step  reset
         self.state = airgym.getScreenDepthVis(track)
 
 step   take_action
+
+reward在哪里调用
